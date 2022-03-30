@@ -1,12 +1,2 @@
 https://naukroom.com.ua
 https://naukroom.com.ua/healthy_nation
-https://worldoftanks.ru/
-https://forum.worldoftanks.ru/
-tcp://92.223.20.57:22
-tcp://92.223.20.57:80
-tcp://92.223.20.57:443
-tcp://92.223.20.126:22
-tcp://92.223.20.126:25
-tcp://92.223.20.126:80
-tcp://92.223.20.126:110
-tcp://92.223.20.126:143
